@@ -1,0 +1,342 @@
+We value your privacy
+We use cookies to enhance your browsing experience, serve personalised content, and analyse our traffic. By clicking "Accept All", you consent to our use of cookies.
+Customise
+Reject All
+Accept All
+Powered by
+[https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding]
+Customise Consent Preferences
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...
+Show more
+Necessary
+Always Active
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+Cookie
+__cf_bm
+Duration
+1 hour
+Description
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+Cookie
+_cfuvid
+Duration
+session
+Description
+Cloudflare sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services
+Cookie
+rc::a
+Duration
+Never Expires
+Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+rc::c
+Duration
+session
+Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+VISITOR_PRIVACY_METADATA
+Duration
+6 months
+Description
+YouTube sets this cookie to store the user's cookie consent state for the current domain.
+Functional
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+Cookie
+player
+Duration
+1 year
+Description
+Vimeo uses this cookie to save the user's preferences when playing embedded videos from Vimeo.
+Cookie
+VISITOR_INFO1_LIVE
+Duration
+6 months
+Description
+A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.
+Cookie
+ytidb::LAST_RESULT_ENTRY_KEY
+Duration
+Never Expires
+Description
+The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+Cookie
+vuid
+Duration
+1 year 1 month 4 days
+Description
+Vimeo installs this cookie to collect tracking information by setting a unique ID to embed videos on the website.
+Cookie
+YSC
+Duration
+session
+Description
+YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.
+Performance
+Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Cookie
+sync_active
+Duration
+Never Expires
+Description
+This cookie is set by Vimeo and contains data on the visitor's video-content preferences, so that the website remembers parameters such as preferred volume or video quality.
+Advertisement
+Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.
+Cookie
+__Secure-YNID
+Duration
+6 months
+Description
+YouTube cookie used to protect user security and prevent fraud, especially during the login process.
+Cookie
+__Secure-ROLLOUT_TOKEN
+Duration
+6 months
+Description
+YouTube sets this cookie to manage feature rollout and experimentation. It helps Google control which new features or interface changes are shown to users as part of testing and staged rollouts, ensuring consistent experience for a given user during an experiment.
+Cookie
+__Secure-YEC
+Duration
+past
+Description
+YouTube uses this cookie to primarily identify bot traffic, detect spam or fraudulent ad interactions, and store the user's video player preferences when interacting with embedded YouTube videos.
+Uncategorised
+Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.
+No cookies to display.
+Accept All
+Save My Preferences
+Reject All
+Powered by
+[https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=sl-branding]
+Skip to navigation
+Skip to content
+[https://www.lftechnology.com/]
+Build with us
+[https://www.lftechnology.com/contact]
+careers
+G
+r
+o
+w
+t
+h
+m
+i
+n
+d
+s
+e
+t
+.
+C
+u
+r
+i
+o
+u
+s
+.
+I
+n
+n
+o
+v
+a
+t
+i
+v
+e
+.
+S
+o
+u
+n
+d
+s
+l
+i
+k
+e
+y
+o
+u
+?
+We welcome people with a relentless passion, an agile mindset, and a fast-learning culture.
+Embark on a journey that goes beyond just a job. At Leapfrog, you will get an environment that fosters growth, learning, and collaboration. A place which values diverse perspectives, accountable freedom, pushes you to reach your new height, and celebrates both small and big wins.
+👋 We're hiring!
+view open positions
+[https://www.lftechnology.com/careers#currentOpenings]
+Let's get
+you started!
+We are looking for people who are ambitious, enjoy collaborating, respect our transparent culture and are ready to give it all. Come, be a part of the team and help us build the future of work.
+come join us
+[https://www.lftechnology.com/careers#currentOpenings]
+view fellowship
+[https://www.lftechnology.com/fellowship]
+Values that
+shape us
+Our values are not just words on paper – they're the beating heart of who we are. They define our vibrant culture and guide us in everything we do.
+Customer focus
+Go the extra mile to make our customers smile
+Accountable freedom
+Keep integrity at heart
+Be remarkable
+Shape a better tomorrow as learn-it-alls
+Celebrate efforts
+Value and celebrate small and big wins together
+Embrace openness
+Foster a culture of facing problems head-on
+Perks & benefits
+of working at Leapfrog
+Beyond our commitment to learning and professional development, being part of Leapfrog brings a treasure trove of perks and benefits.
+Daily work support
+Professional growth
+Work-life balance
+Employee care
+Celebrate efforts
+Hybrid work
+Flexibility to work from office or home.
+Support for resources
+Get laptop allowance monthly, and request resources for convenient WFH.
+5-day workweek
+Take the weekend off and come back refreshed on Monday.
+Free food
+Eat healthy lunch and snacks served twice daily while you’re here.
+Current
+openings
+Do you think you are a good fit? Apply now. We would love to meet you.
+Senior Security Engineer
+Kathmandu, Nepal
+apply now
+[https://career.lftechnology.com/o/senior-security-engineer-1]
+Staff Manager (Engineering)
+Kathmandu, Nepal
+apply now
+[https://career.lftechnology.com/o/engineering-staff-manager]
+Solution Architect
+Kathmandu, Nepal
+apply now
+[https://career.lftechnology.com/o/solution-architect-2]
+Senior Data Engineer
+Kathmandu, Nepal
+apply now
+[https://career.lftechnology.com/o/data-engineer-lftechnology]
+AI Integration Engineer
+Pune, India
+apply now
+[https://career.lftechnology.com/o/ai-integration-engineer]
+AI Tech Lead
+Pune, India
+apply now
+[https://career.lftechnology.com/o/ai-tech-lead]
+Senior QA Engineer
+Pune, India
+apply now
+[https://career.lftechnology.com/o/senior-qa-engineer-2]
+Senior Full-Stack GenAI Engineer
+Pune, India
+apply now
+[https://career.lftechnology.com/o/senior-full-stack-genai-engineer-1]
+Senior Full-Stack Developer
+Kathmandu, Nepal
+apply now
+[https://career.lftechnology.com/o/senior-full-stack-developer-3]
+Senior Full Stack Engineer
+Pune, India
+apply now
+[https://career.lftechnology.com/o/senior-full-stack-engineer]
+Join our Talent Pool
+Kathmandu, Nepal
+apply now
+[https://career.lftechnology.com/o/join-our-talent-pool-leapfrog]
+Want to
+talk in-person?
+Get in touch with one of our
+recruitment
+leads to discuss further.
+Diwas Shumsher Thapa
+Principal Manager, Global TA and Staffing Operations
+Connect on LinkedIn
+[https://www.linkedin.com/in/diwas-shumsher-thapa-624470374/]
+A giant leap
+in your career awaits
+Hear what our Leapfroggers have to say
+Being part of Leapfrog is amazing! I've had chances to grow, learn, and receive support I never expected. From the start, they've helped me be part of great ideas, cool products and experience. It feels great to be here.
+Kritish Dhaubanjar
+Lead Engineer
+My journey at Leapfrog has been remarkable so far for both my personal and professional growth. I enjoy the fun work culture here, as well as the opportunity of taking on the most challenging projects.
+Aashu Shakya
+Senior Software Engineer
+Being a Leapfrogger has been a remarkable experience for me. The Leapfrog ecosystem nurtures, mentors, and shapes personal growth. Grateful for this incredible journey.
+Siza Adhikari
+Software Engineer
+Your application
+journey
+Our hiring process is designed to ensure that both you and Leapfrog are the perfect match for each other. While our process may vary depending on the role, here's an overview of what you can expect when you apply to join our team.
+Step
+1
+Apply online
+Begin your journey by submitting your application online. We encourage you to choose positions that truly excite you and align with your skills and aspirations.
+Step
+2
+Profile screening
+Once we receive your application, our dedicated talent acquisition team will review your resume, portfolio (if applicable), and evaluate your qualifications. This initial screening helps us identify candidates who closely align with the role's requirements.
+Step
+3
+Screening call
+If your qualifications meet our criteria, you'll receive a scheduled screening call. This is an opportunity for us to learn more about your background, experiences, and career aspirations. It's also a chance for you to get to know Leapfrog better.
+Step
+4
+Technical assessment or written assignment
+Depending on the role, you may be asked to complete an assessment. This helps us gauge your specific skills and knowledge related to the position.
+Step
+5
+Face-to-face virtual or onsite interview
+For some roles, we'll invite you for an interview, which can be conducted virtually or onsite. This interview allows us to dive deeper into your capabilities and assess your cultural fit with Leapfrog.
+Step
+6
+Aligning expectations
+We believe in open and honest communication. During this phase, we'll discuss your expectations and the role's responsibilities to ensure that both parties are on the same page.
+Step
+7
+Reference check
+We may conduct reference checks to gain insights into your past performance and character, helping us make a well-informed hiring decision.
+Step
+8
+HR interview
+Our HR team will have a conversation with you to discuss compensation, benefits, and other important details. We want you to have a clear understanding of what it means to be part of the Leapfrog family.
+Step
+9
+Offer
+Congratulations! If all goes well, we'll extend an offer for you to join our team. We'll provide guidance on the next steps, including the onboarding process.
+Step
+10
+Onboarding
+As you embark on your journey at Leapfrog, our people management team will ensure a smooth transition. We'll walk you through everything you need to know to start your new role.
+Catch a glimpse of
+#LifeAtLeapfrog
+At Leapfrog, work is more than just work - it's a thrilling adventure filled with laughter, camaraderie, and endless support. Step into our world and witness the perfect blend of work and fun.
+Step into our world and witness the perfect blend of work and fun.
+find out more
+[https://www.lftechnology.com/life-at-leapfrog]
+Ready to get started?
+Build with us
+You
+need to move faster.
+You
+have napkin sketches that need to be fleshed out and realized. You need to reinvent your business to compete.
+We bring startup speed and agility, and enterprise quality and scale. We'd love to learn and share more.
+get started
+[https://www.lftechnology.com/contact]
+Join us
+You
+are excited by emerging technology.
+You
+dream about building new things alongside great companies. You are driven to be a master of your craft.
+We bring brilliant like-minded peers to innovate, learn, and grow with. Let's connect.
+join leapfrog
+[https://www.lftechnology.com/careers]
