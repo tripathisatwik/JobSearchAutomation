@@ -2,3 +2,4 @@ playwright
 pyyaml
 playwright.chromium
 beautifulsoup4
+requests
